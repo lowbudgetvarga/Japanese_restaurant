@@ -135,3 +135,30 @@ section.contpage
 	text-align: center;
 	font-size: 20px;
 }
+
+header{
+	height: 200px;
+}
+
+li{
+	display: inline;
+}
+
+article{
+	text-align: justify;
+}
+
+aside{
+	width: 230px;
+	padding-left: 20px;
+	float: right;
+}
+
+section.popular-recipes a{
+	color: #de6581;
+	text-decoration: none;
+}
+
+h1, h2, h3{
+	font-weight: normal;
+}
